@@ -1,5 +1,5 @@
 # Hey, I'm Aayushi Thakre  
--- Second-year Computer Science & Engineering student at IIIT Jabalpur  
+-- Computer Science & Engineering junior at IIIT Jabalpur  
 -- Aspiring Software Engineer | AI & Web Dev Enthusiast | Problem Solver  
 
 ---
