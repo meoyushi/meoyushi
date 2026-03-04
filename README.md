@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meoyushi/meoyushi/main/banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/meoyushi/meoyushi/main/banner.gif" height="250px" />
 </p>
 <!-- Dark cyber + pastel gradient name banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=I'm%20Aayushi%20Thakre!&fontSize=38&fontAlignY=35&animation=fadeIn&color=0:1a1a2e,50:2a2a72,100:ff9ff3&fontColor=FCEFF9" />
-</p>
+</p> -->
 
 <!-- Your EXACT original typing lines, just recolored -->
 <p align="center">
