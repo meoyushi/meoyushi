@@ -1,9 +1,9 @@
 # Hey, I'm Aayushi Thakre  
--- Computer Science & Engineering junior at IIIT Jabalpur  
--- Aspiring Software Engineer | AI & Web Dev Enthusiast | Problem Solver  
+- Computer Science & Engineering junior at IIIT Jabalpur  
+- Aspiring Software Engineer | AI & Web Dev Enthusiast | Problem Solver  
 
 ---
-## ** About Me  
+## About Me  
 I'm passionate about leveraging code to solve real-world problems, with a strong foundation in software development, algorithms, and creative design. My interests span across full-stack development, machine learning, data science, and competitive programming.  
 
 Currently diving deep into:  
@@ -15,7 +15,7 @@ Currently diving deep into:
 
 ---
 
-## ** My Current Focus  
+## My Current Focus  
 - **Frontend Engineering**: React, Tailwind, dynamic UI/UX  
 - **AI/ML**: Scikit-learn, logistic regression, predictive models  
 - **Software Projects**: Chrome extensions, medical platforms, smart web apps  
@@ -23,7 +23,7 @@ Currently diving deep into:
 
 ---
 
-## ** Let's Collaborate On  
+## Let's Collaborate On  
 - 🔍 Machine Learning or AI-powered tools  
 - 💻 Full-stack applications (React, Node, SQL)  
 - 🌿 Sustainability tech or gamified apps  
@@ -31,7 +31,7 @@ Currently diving deep into:
 
 ---
 
-## ** How to Reach Me  
+## How to Reach Me  
 📧 arthakre30@gmail.com  
 🔗 [LinkedIn {click here}](https://www.linkedin.com/in/aayushi-thakre-736024283/) 
 
