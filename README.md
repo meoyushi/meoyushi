@@ -17,7 +17,7 @@
 
 ## About Me
 
-I’m a Computer Science & Engineering student who enjoys building practical software and exploring intelligent systems.
+I’m a Computer Science & Engineering student at IIIT Jabalpur who enjoys building practical software and exploring intelligent systems.
 
 My interests include:
 
@@ -87,4 +87,4 @@ My interests include:
 🔗 https://www.linkedin.com/in/aayushi-thakre-736024283/  
 💻 https://github.com/meoyushi  
 
--
+
