@@ -122,9 +122,12 @@ My interests include:
 
 ---
 
-![Aayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=meoyushi&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meoyushi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Aayushi's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meoyushi&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meoyushi&layout=compact&theme=radical)
+---
 
 ## 🤝 Let’s Connect
 
