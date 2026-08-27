@@ -31,12 +31,6 @@ My interests include:
 | 💻 Software Development Intern | **Sapours Technologies**, Pune — built Angular components & REST API integrations for Shiv AI (enterprise platform) | Jun 2025 – Jul 2025 |
 | 🐙 Open Source Contributor | **GitHub `issue-metrics` repo** — Top 7 contributor; proposed & deployed the *Time to First Review* PR analytics metric | Mar 2026 – Apr 2026 |
 
-**Competitive Programming**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
 ---
 
 ## 🚀 Featured Projects
