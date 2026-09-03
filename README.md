@@ -131,9 +131,9 @@ My interests include:
 
 ---
 
-[![Aayushi's GitHub stats](https://github-stats-extended.vercel.app/api?username=meoyushi&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meoyushi&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=meoyushi&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=meoyushi&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
